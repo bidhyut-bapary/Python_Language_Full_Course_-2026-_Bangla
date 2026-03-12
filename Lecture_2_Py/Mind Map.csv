@@ -1,0 +1,10 @@
+মাইন্ড ম্যাপ (Mind Map)
+Lecture 2: Strings & Conditionals
+├── Strings
+│   ├── Creation ( ' ', " ", """ """)
+│   ├── Indexing (0, 1, 2...) & Slicing
+│   └── Functions (capitalize, replace, find, count)
+└── Conditionals
+    ├── if, elif, else (সিদ্ধান্ত নেওয়া)
+    ├── Indentation (সঠিক স্পেসিং)
+    └── Nesting (একটির ভেতর আরেকটি if)
